@@ -1,0 +1,39 @@
+# Basic libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Machine learning libraries
+scikit-learn
+tensorflow
+keras
+pytorch
+
+# Data processing libraries
+nltk
+spacy
+beautifulsoup4
+requests
+
+# Utility libraries
+python-dotenv
+tqdm
+pyyaml
+
+# Notebook environment
+jupyter
+notebook
+
+# Testing libraries
+pytest
+pytest-cov
+
+# Linters and formatters
+flake8
+black
+isort
+
+# Other specific libraries (add as needed)
+# example_library==1.2.3
